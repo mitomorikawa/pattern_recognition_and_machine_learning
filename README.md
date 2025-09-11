@@ -2,16 +2,16 @@
 
 This repository contains Python implementations of several algorithms from Pattern Recognition and Machine Learning by Christopher M. Bishop. The goal is to explore and understand key machine learning concepts through hands-on coding.
 
-Contents
+Contents  
 	•	clustering.py – Implementation of K-Means clustering, including cost tracking and cluster covariances.  
 	•	distributions.py – Implementations of probability distributions:  
-	<br>   •	Gaussian (multivariate normal)  
-	<br>   •	Dirichlet  
-	<br>   •	Wishart  
+	&nbsp;   •	Gaussian (multivariate normal)  
+	&nbsp;  •	Dirichlet  
+	&nbsp;   •	Wishart  
 	•	gmm.py – Gaussian Mixture Model (GMM) implementation supporting:   
-	<br>   •	**Expectation-Maximization (EM)**  
-	<br>   •	**Variational Inference (VI)**  
-	<br>  •	Parameter estimation, log-likelihood/lower-bound tracking, and cluster prediction  
+	&nbsp;   •	**Expectation-Maximization (EM)**  
+	&nbsp;   •	**Variational Inference (VI)**  
+	&nbsp;  •	Parameter estimation, log-likelihood/lower-bound tracking, and cluster prediction  
     •   gaussian_mixture.ipynb - Application of these algorithms to mock data  
 
 Features
