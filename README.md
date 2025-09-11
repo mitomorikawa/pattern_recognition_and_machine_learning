@@ -4,13 +4,13 @@ This repository contains Python implementations of several algorithms from Patte
 
 Contents
 	•	clustering.py – Implementation of K-Means clustering, including cost tracking and cluster covariances.
-	•	distributions.py – Implementations of probability distributions:
-	   •	Gaussian (multivariate normal)
-	   •	Dirichlet
-	   •	Wishart
+	•	distributions.py – Implementations of probability distributions:  
+	   •	Gaussian (multivariate normal)  
+	   •	Dirichlet  
+	   •	Wishart  
 	•	gmm.py – Gaussian Mixture Model (GMM) implementation supporting:
-	   •	Expectation-Maximization (EM)
-	   •	Variational Inference (VI)
+	   •	**Expectation-Maximization (EM)**
+	   •	**Variational Inference (VI)**
 	   •	Parameter estimation, log-likelihood/lower-bound tracking, and cluster prediction
     •   gaussian_mixture.ipynb - Application of these algorithms to mock data
 
